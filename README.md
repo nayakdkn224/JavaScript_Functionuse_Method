@@ -1,0 +1,1 @@
+# JavaScript_Functionuse_Method
